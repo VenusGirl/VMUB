@@ -222,7 +222,7 @@
     </Dialogs>
     <Comboboxes>
       <NoneText>없음</NoneText>
-      <CreateNewVM>새 VM 생성 만들기</CreateNewVM>
+      <CreateNewVM>새 VM 만들기</CreateNewVM>
       <EnableCPUVirtualization>변경안함\r\n켜기\r\n끄기\r\n전환</EnableCPUVirtualization>
       <Mode>VM 이름\r\nVM 경로\r\nExe 매개변수</Mode>
       <Priority>일반 이하\r\n일반\r\n일반 이상\r\n높음</Priority>
